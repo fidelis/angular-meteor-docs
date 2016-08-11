@@ -35,7 +35,7 @@ In short, Meteor core's setup has:
 
 So first, let's define our first parties collection that will store all our parties.
 
-Add a file `both/collections/parties/parties.collection.ts`:
+Add a file `both/collections/parties.collection.ts`:
 
 {{> DiffBox tutorialName="meteor-angular2-socially" step="3.1"}}
 
